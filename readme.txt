@@ -12,10 +12,3 @@ Pull Request Test
 !!! -5- !!!
 
 
-PUll R
-PUll R
-PUll R
-PUll R
-PUll R
-PUll R
-PUll R
